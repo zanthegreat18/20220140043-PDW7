@@ -1,0 +1,20 @@
+/* Custom CSS */
+body {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.carousel-item img {
+  height: 400px;
+  object-fit: cover;
+}
+
+.btn-primary {
+  background-color: #ffc107;
+  border-color: #ffc107;
+}
+
+.btn-primary:hover {
+  background-color: #ff9800;
+  border-color: #ff9800;
+}
